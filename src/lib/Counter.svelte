@@ -6,5 +6,13 @@
 </script>
 
 <button on:click={increment}>
-  count is {count}
+  {#if count}
+    {#if count==1}
+       {count} available milf  
+    {:else}
+       {count} available milfs
+    {/if}
+  {:else}
+    click for milfs
+  {/if}
 </button>

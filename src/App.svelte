@@ -5,26 +5,19 @@
 
 <main>
   <div>
-    <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> 
-      <img src="/vite.svg" class="logo" alt="Vite Logo" />
-    </a>
-    <a href="https://svelte.dev" target="_blank" rel="noreferrer"> 
-      <img src={svelteLogo} class="logo svelte" alt="Svelte Logo" />
-    </a>
+    <img src="https://testoria.pl/wp-content/uploads/2021/02/https-_hypebeast.com_image_2021_02_chris-torres-nyan-cat-foundation-10-year-anniversay-auction-001.jpg" class="logo" alt="nyancat" />
   </div>
-  <h1>Vite + Svelte</h1>
+  <h1>Kanimod</h1>
 
   <div class="card">
+    <p>my current js abilities:</p>
     <Counter />
   </div>
 
   <p>
-    Check out <a href="https://github.com/sveltejs/kit#readme" target="_blank" rel="noreferrer">SvelteKit</a>, the official Svelte app framework powered by Vite!
+    HelLo i am under the water
   </p>
 
-  <p class="read-the-docs">
-    Click on the Vite and Svelte logos to learn more
-  </p>
 </main>
 
 <style>
