@@ -15,7 +15,7 @@
   </div>
 
   <p>
-    HelLo i am under the water
+    HelLo i am under the button
   </p>
 
 </main>
