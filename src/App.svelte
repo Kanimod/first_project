@@ -4,7 +4,7 @@
 
 <main>
   <div>
-    <img src="https://w7.pngwing.com/pngs/943/692/png-transparent-butterfly-flying-butterflies-animals-brush-footed-butterfly-orange.png" class="logo" alt="butterfly" />
+    <img src="./public/pngwing.com.png"  class="logo" alt="butterfly" />
   </div>
   <h1>Kanimod</h1>
 
