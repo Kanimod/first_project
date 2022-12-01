@@ -4,7 +4,7 @@
 
 <main>
   <div>
-    <img src="./public/pngwing.com.png"  class="logo" alt="butterfly" />
+    <img src="C:\Users\Kanimod\developer\first_project\public\pngwing.com.png"  class="logo" alt="butterfly" />
   </div>
   <h1>Kanimod</h1>
 
