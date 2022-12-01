@@ -4,7 +4,7 @@
 
 <main>
   <div>
-    <img src="https://testoria.pl/wp-content/uploads/2021/02/https-_hypebeast.com_image_2021_02_chris-torres-nyan-cat-foundation-10-year-anniversay-auction-001.jpg" class="logo" alt="nyancat" />
+    <img src="https://w7.pngwing.com/pngs/943/692/png-transparent-butterfly-flying-butterflies-animals-brush-footed-butterfly-orange.png" class="logo" alt="butterfly" />
   </div>
   <h1>Kanimod</h1>
 
