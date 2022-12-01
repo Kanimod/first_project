@@ -1,11 +1,10 @@
 <script lang="ts">
   import Counter from './lib/Counter.svelte'
-  import Image from './public/pngwing.com.png'
 </script>
 
 <main>
   <div>
-    <Image src="./public/pngwing.com.png"  class="logo" alt="butterfly" />
+    <img src="./public/pngwing.com.png"  class="logo" alt="butterfly" />
   </div>
   <h1>Kanimod</h1>
 
